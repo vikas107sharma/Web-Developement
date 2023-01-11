@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(140, 238, 123);
+}
+hr{
+  background-color: rgb(138, 225, 98);
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(243, 10, 10);
+  border-width: 4px;
+  width: 10%;
+}
+h1{
+    color: blue;
+    font-style: bold;
+}
+h3{
+    color: rgb(255, 0, 0);
+    
+}
+img {
+    background-color: aquamarine;
+}
