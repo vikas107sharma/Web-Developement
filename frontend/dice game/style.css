@@ -1,0 +1,35 @@
+
+body{
+    background-color: #393E46;
+}
+
+.game {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+#dice1{
+    display: inline-block;
+}
+#dice2{
+    display: inline-block;
+}
+
+h1{
+    margin: 30px;
+    font-size: 4rem;
+    color: #4ECCA3;
+    font-family: cursive;
+    text-shadow: 5px 0 #232931;
+}
+
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: cursive;
+}
+
+.img{
+    width: 80%;
+}
